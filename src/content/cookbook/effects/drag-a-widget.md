@@ -161,7 +161,7 @@ In this recipe, the user should drop a menu item on a
 `CustomerCart` widget to add the menu item to the user's cart.
 
 在本示例中，用户应将菜单项拖放到 `CustomerCart` widget 上，
-以将菜单项添加到用户的购物车中。
+从而将菜单项添加到用户的购物车中。
 
 <?code-excerpt "lib/main.dart (CustomerCart)" replace="/^return //g;/^\),$/)/g"?>
 ```dart
